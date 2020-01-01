@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Hash Table | C++ Implementation 👋</h1>
+<h1 align="center">How to Utilize Classes in C++ 👋</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -8,7 +8,7 @@
   </a>
 </p>
 
-> A basic implementation of the hash table data structure in C++. Use whatever you want.
+> A basic implementation of building a project with seperate header & class files compiled together in C++.
 
 ### 🏠 [Homepage](haysstanford.com)
 
