@@ -10,9 +10,7 @@
 
 > A basic implementation of building a project with seperate header & class files compiled together in C++.
 
-### 🏠 [Homepage](haysstanford.com)
-
-### ✨ [Demo](haysstanford.com)
+### 🏠 [View Full Tutorial](https://haysstanford.com/blog)
 
 ## Author
 
