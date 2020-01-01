@@ -8,7 +8,7 @@
   </a>
 </p>
 
-> A basic implementation of building a project with seperate header & class files compiled together in C++.
+> A basic implementation of a project with seperate header & class files compiled together in C++.
 
 ### 🏠 [View Full Tutorial](https://haysstanford.com/blog)
 
