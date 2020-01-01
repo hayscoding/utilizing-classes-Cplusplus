@@ -1,9 +1,9 @@
-#include "message.h"
+#include "TestObject.h"
 #include <iostream>
 
 int main() {
-	message m;
-	m.printMessage();
+	TestObject obj;
+	obj.printMessage();
 
 	return 0;
 }

@@ -1,7 +1,7 @@
 #ifndef MESSAGE_H
 #define MESSAGE_H
 
-class message {
+class TestObject {
 public:
 	void printMessage();
 };
