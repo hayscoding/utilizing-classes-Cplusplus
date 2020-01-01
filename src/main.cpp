@@ -1,7 +1,9 @@
+#include "message.h"
 #include <iostream>
 
 int main() {
-	std::cout << "Hello World!" << std::endl;
+	message m;
+	m.printMessage();
 
 	return 0;
 }
